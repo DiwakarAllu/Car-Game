@@ -1,7 +1,7 @@
 # Car Game in Pygame
 This is a simple car game created using the Pygame library. Dodge the enemy cars to see how far you can go!
 
-## Prerequisites
+## Prerequisites 
 Before you begin, ensure you have met the following requirements:
 
 Python 3.x installed on your system.
